@@ -1,1 +1,1 @@
-Demo: https://next-eurobet-prototype.herokuapp.com/
+Demo: https://react-eurobet-prototype.onrender.com/authorization
